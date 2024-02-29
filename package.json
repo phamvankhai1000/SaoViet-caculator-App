@@ -1,5 +1,5 @@
 {
-  "name": "saoviet-calculator-app",
+  "name": "saoviet-caculator-app",
   "version": "0.1.0",
   "license": "MIT",
   "homepage": "http://ahfarmer.github.io/calculator",
@@ -10,11 +10,10 @@
     "react-scripts": "^3.0.1"
   },
   "dependencies": {
-    
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "saoviet-caculator": "0.1.0",
-    "rewiki-exchange":"0.1.0"
+    "rewiki-exchange": "0.1.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -37,5 +36,19 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "description": "Calculator\r ---\r <img src=\"Logotype primary.png\" width=\"60%\" height=\"60%\" />",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phamvankhai1000/SaoViet-caculator-App.git"
+  },
+  "keywords": [
+    "App",
+    "caculator"
+  ],
+  "author": "Khai Pham",
+  "bugs": {
+    "url": "https://github.com/phamvankhai1000/SaoViet-caculator-App/issues"
   }
 }
